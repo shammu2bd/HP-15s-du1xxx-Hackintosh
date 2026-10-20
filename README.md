@@ -3,6 +3,8 @@ HP-15s-du1xxx Hackintosh working Opencore EFI with macOS 26 Tahoe
 - **Bootloader:** OpenCore 1.0.8
 - **macOS:** 26.7.1 Tahoe
 
+<img src="Doc/macOS 26 Tahoe Hackintosh Screenshoot.jpg" width="900px" alt="macOS 26 Tahoe Hackintosh Screenshoot">
+
 # Changelog
 
 ### Update: 20-Oct-2026
