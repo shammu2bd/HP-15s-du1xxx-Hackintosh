@@ -46,6 +46,7 @@ HP-15s-du1xxx Hackintosh working Opencore EFI with macOS 26 Tahoe
 - [x] Universal Control (Not tested)
 - [x] AirPlay
 - [x] Fn feature **(Brightness and volume button works)**
+- [x] Full SIP supported & Enabled
 - [x] Continuity Camera **(works only USB mode. will not work with wifi till now)**
 
 # Not WORKING:
