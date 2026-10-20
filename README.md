@@ -56,7 +56,7 @@ HP-15s-du1xxx Hackintosh working Opencore EFI with macOS 26 Tahoe
 - [ ] iPhone Mirroring
 - [ ] Airdrop
 - **Wait for the fix**
-- 
+
 - [ ] No DRM support. Will never work.
   + **NETFLIX will not work on safari browser**
   + **AppleTV app will not play videos**
