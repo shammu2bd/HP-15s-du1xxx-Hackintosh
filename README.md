@@ -52,11 +52,9 @@ HP-15s-du1xxx Hackintosh working Opencore EFI with macOS 26 Tahoe
   + WPA2/WPA3 mixed mode will work.
   + Noise level not showing.
   + Upload speed sometimes drops.
-  + **waiting for developer to fix**
 - [ ] iPhone Mirroring
-  + **waiting for developer to fix**
 - [ ] Airdrop
-  + **waiting for developer to fix**
+- **Wait for the fix**
 - [ ] No DRM support. Will never work.
   + **NETFLIX will not work on safari browser**
   + **AppleTV app will not play videos**
