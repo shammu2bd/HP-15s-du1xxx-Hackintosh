@@ -28,11 +28,10 @@ HP-15s-du1xxx Hackintosh working Opencore EFI with macOS 26 Tahoe
 
 # WORKING:
 - [x] Power Management
-- [x] Intel UHD Graphics 620
+- [x] Intel UHD Graphics 620 acceleration
 - [x] Built-in Wifi (Realtek RTL8821ce) **(No OCLP patch needed)**
 - [x] Built-in Bluetooth
-- [x] Sound **(Internal Speaker and Headphone working)**
-- [x] Mic **(Internal and External both working)**
+- [x] Sound & Mic  **(No OCLP patch needed)**
 - [x] SD Card Reader
 - [x] Ethernet
 - [x] Adjust brightness 
